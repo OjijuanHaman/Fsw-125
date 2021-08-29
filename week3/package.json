@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "jsdom": "^16.6.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.12",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "uu": "^0.0.0",
+    "uuid": "^8.3.2"
+  },
+  "name": "bryanuniversity",
+  "version": "1.0.0",
+  "main": "ConstructorFunctionsandPrototypes.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

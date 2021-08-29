@@ -27,9 +27,9 @@ app.get('/shows', (req, res) => {
 app.get('/motorcycles', (req, res) => {
     res.json(
         [{
-            "bike": "Ninja"},{
-            "bike": "YzF"},{
-            "bike": "Hayabusa"
+            "bike": "Ninja400F"},{
+            "bike": "YzFR7"},{
+            "bike": "V-Rod"
         }]
     )
 });
