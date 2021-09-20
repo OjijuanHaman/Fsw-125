@@ -1,0 +1,28 @@
+html {
+  background-image: url("https://media.istockphoto.com/photos/this-bike-will-be-perfect-picture-id614415432?k=20&m=614415432&s=612x612&w=0&h=pxoABtoInMevUnC08h4rlbBVqc-5q1f4Pv4JW37SfAI=");
+  background-position: center;
+  background-size:cover;
+  background-repeat: none;
+  color: whitesmoke;
+  text-align: center;
+  
+}
+
+.title {
+  color:darkmagenta;
+  font-size: 50px;
+  
+  text-align:center;
+}
+
+.partFiltered{
+  list-style: none;
+  opacity: 0.7;
+  padding-bottom: 2px;
+}
+
+@media (max-width: 1400px), (min-width: 560px) {
+  .html {
+    padding: 40px 100px;
+  }
+}
